@@ -44,16 +44,16 @@ for identifying keypoints and developed an algorithm that can help us solving is
 
 ## Career
 
-- #### 2021+ : Senior Software Engineer - Sony India Software Centre
+- **2021+ : Senior Software Engineer - Sony India Software Centre**
 
-- #### 2019 - 2021 : Software Enigineer - Sony India Software Centre
+- **2019 - 2021 : Software Enigineer - Sony India Software Centre**
 
-- #### 2017 - 2019: Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions
+- **2017 - 2019: Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions**
 
 ## Education
 
-- #### MS in ML and AI from Liverpool John Moores University ( 2020 - 2022 )
+- **MS in ML and AI from Liverpool John Moores University ( 2020 - 2022 )**
 
-- #### PG Diploma in ML and AI from IIITB ( 2020 - 2021 )
+- **PG Diploma in ML and AI from IIITB ( 2020 - 2021 )**
 
-- #### BE in Computer Science and Engineering from PESCE, Mandya ( 2013 - 2017 )
+- **BE in Computer Science and Engineering from PESCE, Mandya ( 2013 - 2017 )**
