@@ -44,11 +44,11 @@ for identifying keypoints and developed an algorithm that can help us solving is
 
 ## Career
 
-- **2021+ : Senior Software Engineer - Sony India Software Centre**
+- **Senior Software Engineer - Sony India Software Centre ( 2021+ )**
 
-- **2019 - 2021 : Software Enigineer - Sony India Software Centre**
+- **Software Enigineer - Sony India Software Centre ( 2019 - 2021 )**
 
-- **2017 - 2019: Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions**
+- **Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions( 2017 - 2019 )**
 
 ## Education
 
