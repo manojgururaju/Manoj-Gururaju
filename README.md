@@ -5,16 +5,14 @@ Deep learning practitioner, I would like to build solutions for pressing problem
 
 ## About Me
 
-I am Senior Software Engineer at Sony and pursuing masters degree from IIITB and LJMU in the field of Machine learning and AI. I am passionate about AI, Enivironment Prosperity, Motarcycles.
+I am Senior Software Engineer at Sony and pursuing masters degree from IIITB and LJMU in the field of Machine learning and AI. I am passionate about AI, Enivironment Prosperity, Motarcycles. I am based out of Bengaluru, Karnataka, India.
 
 
 ### Contact Details
 
-Manoj Gururaju
-Bengaluru, Karnataka, India.
-email: manojgururaju55@gmail.com
-LinkedIn: https://www.linkedin.com/in/manoj-gururaju/
-**[Resume](https://drive.google.com/file/d/1ecXq0f_Vz8gfBQ3DBgsQ2b7MsJCvR1pk/view?usp=sharing)**
+- email: manojgururaju55@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manoj-gururaju/
+- **[Resume](https://drive.google.com/file/d/1ecXq0f_Vz8gfBQ3DBgsQ2b7MsJCvR1pk/view?usp=sharing)**
 
 
 ## Skills
@@ -51,16 +49,16 @@ for identifying keypoints and developed an algorithm that can help us solving is
 
 ## Career
 
-- ### 2021+ : Senior Software Engineer - Sony India Software Centre
+- #### 2021+ : Senior Software Engineer - Sony India Software Centre
 
-- ### 2019 - 2021 : Software Enigineer - Sony India Software Centre
+- #### 2019 - 2021 : Software Enigineer - Sony India Software Centre
 
-- ### 2017 - 2019: Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions
+- #### 2017 - 2019: Software Engineer - Deployed as Consultant to Sony India Software Centre via Test Yantra Software Solutions
 
 ## Education
 
-- ### MS in ML and AI from Liverpool John Moores University ( 2020 - 2022 )
+- #### MS in ML and AI from Liverpool John Moores University ( 2020 - 2022 )
 
-- ### PG Diploma in ML and AI from IIITB ( 2020 - 2021 )
+- #### PG Diploma in ML and AI from IIITB ( 2020 - 2021 )
 
-- ### BE in Computer Science and Engineering from PESCE, Mandya ( 2013 - 2017 )
+- #### BE in Computer Science and Engineering from PESCE, Mandya ( 2013 - 2017 )
