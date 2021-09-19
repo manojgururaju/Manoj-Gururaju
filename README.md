@@ -2,10 +2,9 @@
 
 Deep learning practitioner, I would like to build solutions for pressing problems using technologies.
 
-
 ## About Me
 
-I am Senior Software Engineer at Sony and pursuing masters degree from IIITB and LJMU in the field of Machine learning and AI. I am passionate about AI, Enivironment Prosperity, Motarcycles. I am based out of Bengaluru, Karnataka, India.
+Hi I am Manoj Gururaju! and I am working as Senior Software Engineer at Sony, Currently pursuing masters degree from IIITB and LJMU in the field of Machine learning and AI. I am Deep learning practitioner and I like to build solutions for pressing problems using technologies as weapons. I am based out of Bengaluru, Karnataka, India. I have passion for AI, Enivironment Prosperity, Motarcycles.
 
 
 ### Contact Details
