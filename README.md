@@ -7,9 +7,9 @@ Hi I am Manoj Gururaju! I am working as Senior Software Engineer at Sony, Curren
 
 ### Contact Details
 
-- [email](manojgururaju55@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manoj-gururaju/)
 - **[Resume](https://drive.google.com/file/d/1ecXq0f_Vz8gfBQ3DBgsQ2b7MsJCvR1pk/view?usp=sharing)**
+- email: manojgururaju55@gmail.com
 
 
 ## Skills
