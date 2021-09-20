@@ -7,18 +7,18 @@ Hi I am Manoj Gururaju! I am working as Senior Software Engineer at Sony, Curren
 
 ### Contact Details
 
-- email: manojgururaju55@gmail.com
-- LinkedIn: https://www.linkedin.com/in/manoj-gururaju/
+- [email](manojgururaju55@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/manoj-gururaju/)
 - **[Resume](https://drive.google.com/file/d/1ecXq0f_Vz8gfBQ3DBgsQ2b7MsJCvR1pk/view?usp=sharing)**
 
 
 ## Skills
 
-- Language: Python ( Advanced ), Java ( Novice )
-- Programming Foundations: Data Structures and Algorithms, OOPs ( Intermediate )
-- Data Tools: Numpy, Pandas, Seaborn, matplotlib
-- Technologies: Statistics Foundation, Machine Learning Algorithms, NLP, Deep learning, Web development, Selenium, Appium, Pytest.
-- Deployement Tools: Docker, Flask.
+- **Language: Python ( Advanced ), Java ( Novice )**
+- **Programming Foundations: Data Structures and Algorithms, OOPs ( Intermediate )**
+- **Data Tools: Numpy, Pandas, Seaborn, matplotlib**
+- **Technologies: Statistics Foundation, Machine Learning Algorithms, NLP, Deep learning, Web development, Selenium, Appium, Pytest.**
+- **Deployement Tools: Docker, Flask.**
 
 ## Academic / PET Projects:
 
